@@ -15,10 +15,12 @@ This script opens IE and sends keystrokes and mouse clicks in order to naviagte 
 ###Software
 - Windows with InternetExplorer (tested on German 32-bit Windows 7 Professional SP1 with IE v11.0.9600.18449)
 - [AutIt3](https://www.autoitscript.com) including SciTE editor (tested with v3.3.14.2 and v3.6.6 respectively)
+
 ###Space
 Tick data occupies quite some disk space, check if you have a sufficient amount free
+
 ###TrueFX.com account
-Sing up and sign in (using IE) to TrueFX.com. Set "remember me" option.
+Sing up and sign in (using IE) to TrueFX.com. Set "remember me" option.  
 ![TrueFX signing in](./doc/img/TrueFX.com-signin-rememberme.png)
 
 ## Running
